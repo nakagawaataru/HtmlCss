@@ -24,7 +24,7 @@ header nav{
     background-color: #394548;
 }
 header ul {
-    width: 1200px;
+    width: 1500px;
     height: 40px;
     margin: 0 auto 0 auto;
     padding: 0;
@@ -45,4 +45,11 @@ footer {
     height: 50px;
     margin: 0 auto 0 auto;
     background-color: #0b303b;
+}
+
+.content{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #00ffff;
 }

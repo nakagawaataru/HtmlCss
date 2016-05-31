@@ -46,10 +46,3 @@ footer {
     margin: 0 auto 0 auto;
     background-color: #0b303b;
 }
-
-.content{
-    float: left;
-    width: 200px;
-    height: 200px;
-    background-color: #00ffff;
-}
